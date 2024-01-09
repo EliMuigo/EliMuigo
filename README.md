@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elimuigo&show_icons=true&locale=en&layout=compact" alt="elimuigo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elimuigo&" alt="elimuigo" /></p>
+
 
 
 
